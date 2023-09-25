@@ -14,4 +14,4 @@ I work with the following programming languages and frameworks
 
 Feel free to reach me via the following channels;
 
-<a href="https://www.linkedin.com/in/john-ashivaka-074a6920a"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn#&logoColor=fff"></a> <a href="https://twitter.com/Ashivakajohn"><img src="https://img.shields.io/badge/Twitter-white?logo=Twitter#&logoColor=fff"></a> <a href="mailto:johnashivaka@gmail.com?subject:subject:text"><img src="https://img.shields.io/badge/-Gmail-white?logo=Gmail&logoColor=red"></a>
+<a href="https://www.linkedin.com/in/john-ashivaka-074a6920a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn#&logoColor=fff"></a> <a target="_blank" href="https://twitter.com/Ashivakajohn" ><img src="https://img.shields.io/badge/Twitter-white?logo=Twitter#&logoColor=fff"></a> <a target="_blank" href="mailto:johnashivaka@gmail.com?subject:subject:text"><img src="https://img.shields.io/badge/-Gmail-white?logo=Gmail&logoColor=red"></a>
